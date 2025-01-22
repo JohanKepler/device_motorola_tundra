@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8db9b99c_d829f171",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2025-01-22T22:34:25Z",
+      "side": 1,
+      "message": "works well, but requires frameworks dependency commit merged from same topic",
+      "revId": "19c0015b70c9e4dc94f991aa91cde8f8a47743ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
