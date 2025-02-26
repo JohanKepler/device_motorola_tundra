@@ -4,6 +4,7 @@
 //
 
 runtime_resource_overlay {
+<<<<<<< HEAD
     name: "SystemUIResTundra",
-    vendor: true
+    vendor: true,
 }
