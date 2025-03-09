@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "20fcdc3f_a4e2a684",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-03-09T20:35:40Z",
+      "side": 1,
+      "message": "Why not add it in product.prop when we eliminated system.prop for the same reason?",
+      "revId": "8572810883045e0b9fa7855efc8c5bbc9d4b959e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
