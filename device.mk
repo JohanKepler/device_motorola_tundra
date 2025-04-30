@@ -48,7 +48,12 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.3-service.tundra
 
+<<<<<<< PATCH SET (a5ba90 tundra: Migrate SOONG_CONFIG_qtidisplay_udfps to... actual s)
+$(call soong_config_set,qtidisplay,udfps,true)
+$(call soong_config_set,surfaceflinger,udfps_lib,//$(DEVICE_PATH):libudfps_extension.tundra)
+=======
 $(call soong_config_set,surfaceflinger,udfps_lib,//$(LOCAL_PATH):libudfps_extension.tundra)
+>>>>>>> BASE      (d24d14 tundra: Set UDFPS extension lib via soong config)
 
 # GMS
 ifeq ($(WITH_GMS),true)
