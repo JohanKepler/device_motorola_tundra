@@ -48,6 +48,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.3-service.tundra
 
+$(call soong_config_set,qtidisplay,udfps,true)
 $(call soong_config_set,surfaceflinger,udfps_lib,//$(DEVICE_PATH):libudfps_extension.tundra)
 
 # GMS
