@@ -16,6 +16,23 @@
       "message": "topic is WIP",
       "revId": "c974ccda1a28337f4517b2db4046527467593d66",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3bd9688a_23982c35",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2025-09-20T14:39:04Z",
+      "side": 1,
+      "message": "The topic needs to be merged at the same time as we will drop support for NFC HIDL",
+      "revId": "c974ccda1a28337f4517b2db4046527467593d66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
