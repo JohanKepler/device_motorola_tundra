@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6ff2f702_20b147f7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-09-24T14:40:47Z",
+      "side": 1,
+      "message": "Should have switched this to LineageApertureApp RRO like the other sm7325 devices",
+      "revId": "04b6892ba6ce3488366690032c5d283badfa6d29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
