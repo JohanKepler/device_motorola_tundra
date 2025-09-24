@@ -16,6 +16,24 @@
       "message": "Should have switched this to LineageApertureApp RRO like the other sm7325 devices",
       "revId": "04b6892ba6ce3488366690032c5d283badfa6d29",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "34538d71_a83396d5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2025-09-24T14:46:29Z",
+      "side": 1,
+      "message": "I figured I\u0027d follow how it\u0027s setup on sm7325-common and pretty much every other Motorola tree, but I can do a follow up commit and move it",
+      "parentUuid": "6ff2f702_20b147f7",
+      "revId": "04b6892ba6ce3488366690032c5d283badfa6d29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
