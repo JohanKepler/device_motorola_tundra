@@ -27,7 +27,6 @@ $(call inherit-product, device/motorola/sm7325-common/common.mk)
 PRODUCT_PACKAGES += \
     ApertureResDevice \
     FrameworksResDevice \
-    LineageSystemUIDevice \
     SettingsResDevice \
     SystemUIResDevice \
     WifiResDevice
